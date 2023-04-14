@@ -1,0 +1,1824 @@
+/*INDEX*/
+    .textePresentation{
+    width: 80%;
+    margin: auto;
+        color: white;
+        padding-left: 8px;
+}   
+  .textePresentation span{
+ font-size: 2rem;
+    font-weight: 650;
+color:rgba(156,57,26);
+}  
+.mainDoeuvre{
+
+    width: 100%;
+    text-align: center;
+}
+ 
+.mainDoeuvre h2{
+  
+  
+    font-size: 1.6em;
+    text-align: center;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+ 
+.tutorat h2{
+  
+ 
+    font-size: 2em;
+    text-align: center;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+
+/***********************************************/
+
+
+
+.bg-light {
+    background-color: #9c391a!important;
+z-index: 100;
+    position: fixed;
+    width: 100%;
+  
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+  
+    
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #0eff0e;
+}
+.adresse{
+    line-height: 6px;
+}
+
+
+
+
+/***************FOOTER***********************/
+footer {
+border-radius: 10px;
+color: white;
+text-align: center;
+font-family: sans-serif;
+background-color: rgba(156,57,26);
+}
+
+.designer {
+    font-family: sans-serif;
+    font-size: 10px;
+}
+
+.footerEmail {
+    color:red;
+    text-decoration: none;
+}
+
+.blocReseauxSociaux {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.imageResauSociaux {
+    width: 35px;
+    background-color: white;
+    border-radius: 50%;
+}
+
+.designer {
+    font-size: 9px;
+    padding-bottom: 1px;
+}
+
+.designer a{
+	text-decoration: none;
+	color: white;
+}
+ 
+/*FLECHE*/
+/*FLECHE*/
+
+.fleche{
+	border:solid 1px #e2d5d5;
+	width: 860px;
+	margin: auto;
+	border-radius: 10px;
+}
+.fleche p{
+	text-align: justify;
+padding-left: 30px;
+	padding-right:30px;
+}
+.fleche span{
+	color: white;
+	font-weight: bold;
+	font-size: 1.5rem; letter-spacing: 10px;
+	
+}
+/***************SOMMAIRE**********************/
+/***************SOMMAIRE*********************/
+
+.blocSomaire{
+ text-align: center;
+ width: 50%;
+    margin: auto;
+ margin-bottom: 10px;
+ margin-top: 10px;
+ background-color: darkgrey;
+ border-radius: 10px;
+ padding-bottom: 10px;
+} 
+.blocSomaire h1{
+   color:white; 
+}
+.blocSomaire p{
+    text-align: left;
+    margin-left: 30px;
+    padding-left: 20px;
+}
+.blocSomaire a {
+    
+max-height: none;
+    text-decoration: none;
+    font-family: sans-serif;
+    color: black;
+}
+.blocSomaire p:hover  {
+    color: white;
+    background-color: rgba(156,57,26);
+        border-radius: 10px;
+    width: 250px;
+}
+
+/********************INDEX*************/
+
+.blocPageAccueil{
+    background-color: #9e9b9b;
+}
+.fondSada {
+z-index: 10;
+display: flex;
+ 
+}
+.fondSada h1{
+    position: absolute;
+    margin-top: 35%;
+    width: 100%;
+text-align: center;
+    font-size: 3em;
+    font-weight: 600;
+color: white;
+    
+}
+.imageFondSada{
+ width: 100%;
+}
+/*MIMI-IMAGE*MIMI-IMAGEMIMI-IMAGEMIMI-IMAGEMIMI-IMAGE*/
+.flipCardBack1  {
+    font-family: sans-serif;
+    border-radius: 30px;
+    width: 250px;
+    height: 250px;
+   background-color: rgba(156,57,26);
+    color: white;
+    transform: rotateY(180deg);
+ padding-top: 15px;
+}
+.flipCardBack1 p{
+   text-decoration: transparent;
+    color:white;
+    margin-top: 30px;
+margin-left: 35px;
+    text-align: justify;
+    
+ 
+}
+.flipCardBack2 {
+    font-family: sans-serif;
+    border-radius: 30px;
+    width: 250px;
+    height: 250px;
+   background-color: rgba(156,57,26);
+    color: white;
+    transform: rotateY(180deg);
+ padding-top: 15px;
+}
+.flipCardBack2 p{
+   text-decoration: transparent;
+    color:white;
+   text-align: justify;
+    margin-left: 10px;
+}
+.flipCardBack3{
+     padding-top: 15px;
+    border-radius: 30px;
+    width: 250px;
+    height: 250px;
+   background-color: rgba(156,57,26);
+    color: white;
+    transform: rotateY(180deg);
+   
+ 
+}
+.flipCardBack3 p{
+   text-decoration: transparent;
+    color:white;
+    text-align: justify;
+    margin-left: 10px;
+}
+.flipCardBack4 {
+    border-radius: 30px;
+    width: 250px;
+    height: 250px;
+   background-color: rgba(156,57,26);
+    color: white;
+    transform: rotateY(180deg);
+ padding-top: 15px;
+}
+.flipCardBack4 p{
+   text-decoration: transparent;
+    color:white;
+   text-align: justify;
+    margin-left: 10px;
+    margin-top: 30px;
+}
+.flipCardBack5 {
+    border-radius: 30px;
+    width: 250px;
+    height: 250px;
+   background-color: rgba(156,57,26);
+    color: white;
+    transform: rotateY(180deg);
+    padding-top: 15px;
+ 
+}
+.flipCardBack5 p{
+   text-decoration: transparent;
+    color:white;
+  text-align: justify;
+    margin-top: 30px;
+}
+.flipCardBack5 span{
+    text-align: center;
+  
+}
+/*****************PATIE2********************************/
+
+/****multiImage**********************/
+
+.blocFlipCardImage {
+   font-family: sans-serif;
+    background-color: grey;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center;
+    background-size: 100%;
+    width: 100%;
+  margin: auto;
+padding-top: 10px;
+    padding-bottom: 30px;
+    
+
+}
+.blocImageEnsemble{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    }
+.image {
+    border-radius: 10px;
+    width: 250px;
+    height: 250px;
+}
+.flipCard {
+    margin-left: 10px;
+    background-color: transparent;
+    width: 250px;
+    height: 250px;
+    perspective: 1000px;
+    
+}
+.flipCardInner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transition: transform 0.8s;
+    transform-style: preserve-3d;
+}
+
+/****  rotation_multiImage*********************/
+
+.flipCard:hover .flipCardInner {
+    transform: rotateY(180deg);
+
+}
+
+.flipCardFront, flipCardBack {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden;
+}
+.flipCardFront {
+    border-radius: 10px;
+}
+/********************FIN-IMAGE-MINI********************************/
+
+/*SYNTHES-INSERTION*/
+.insertionsynthese{
+    line-height: 20px;
+    text-align: left;
+}
+.blocInsertion{
+    background-color: grey;
+    font-family: sans-serif;
+
+}
+.paragrapheInsertion{
+
+  width: 60%;
+    margin: auto;
+    border-radius: 10px;
+padding: 10px;
+ 
+}
+.paragrapheInsertion h1{
+     color: white;
+    width: 60%;
+  text-align: center;
+    margin: auto;
+}
+.paragrapheInsertion p{
+   padding: 10px;
+    border-radius: 10px;
+     background-color: #c1c1c1;
+    margin: auto;
+    text-align: justify;
+}
+.classeTextePhotos{
+    color: white;
+    text-align: center;
+    margin-top: 5px;
+ 
+}
+.classeTextePhotos h4{
+    font-size: 14px;
+    
+    
+}
+.imageTutoInsertion1{
+    width: 650px;
+    text-align: center;
+}
+.imageTutoInsertion2{
+    width: 500px;
+
+}
+.imageTutoInsertion3{
+   width: 650px;
+    margin: auto;
+
+}
+.blocInsertionProfessionnelle{
+text-align: center;
+}
+
+
+/************PAGE SECURITE ALIMENTAIRE**********************/
+/************PAGE SECURITE ALIMENTAIRE*********************/
+
+
+.imageInsecurite_1_2 h2{
+text-align: center;
+	width:100%;
+}
+.imageInsecurite_3-4 {
+    text-align: center;
+}
+    
+
+
+.blocSecuriteAlimentaire{
+background-color: grey;
+font-family: sans-serif;  
+width: 100%;
+
+}
+.securiteAlimentaire{
+text-align: center;
+    margin: auto;
+    background-color: lightgray; 
+    width: 60%;
+   border-radius: 10px;
+}
+.securiteAlimentaire h1 {
+    color:white;
+    text-align: center;
+    border-radius: 10px;
+    width: 100%;
+   
+}
+.securiteAlimentaire h2 {
+   color: black
+}
+.securiteAlimentaire1 p{
+  padding: 10px;
+    border-radius: 10px;
+     background-color: #c1c1c1;
+   width:60%;
+    margin: auto;
+    text-align: justify;
+    
+}
+/************PAGE EDUCATION**********************/
+/************PAGE EDUCATION*********************/
+.blocEducation{
+width: 100%;
+border-radius: 10px;
+margin: auto;
+font-family: sans-serif;
+text-align: center;
+background-color: grey;
+}
+.boutonEducationGov {
+background-color: rgba(156,57,26);
+width: 200px;
+margin: auto;
+padding: 10px;
+padding-left: 10px;
+padding-right: 10px;
+color: white;
+border-radius: 10px;
+text-decoration: none;
+ 
+
+}
+.boutonEducationGov:hover{
+	background-color: forestgreen;
+    text-decoration: none;
+    color: white;
+
+
+} 
+.bloccontainerEducation h1{
+color:white;
+}
+.bloccontainerEducation{
+    padding: 10px;
+    border-radius: 10px;
+    width: 60%;
+    margin: auto;
+    margin-bottom: 10px;
+}
+.paragrapheEducation p{
+       padding: 10px;
+    border-radius: 10px;
+     background-color: #c1c1c1;
+    margin: auto;
+    text-align: justify;
+}
+.bloc2Education p{
+    width: 400px;
+    margin-bottom: 7px;
+    text-align: center;
+    font-weight: bold;
+}
+.imageEducation{
+    border-radius: 10px;
+
+}
+    
+
+/************PAGE SANTE**********************/
+/************PAGE SANTE*********************/
+
+
+.blocSante{
+background-size: 100%;
+padding-top: 10px;
+font-family: sans-serif;
+text-align: center;
+background-color: grey;
+ padding-bottom: 10px;
+}
+.sante1 p{
+ 
+width: 1100px;
+margin: auto;
+text-align: justify
+}
+.blocSante h1{
+    color: white;
+    font-size: 2.5rem;
+
+}
+.imageSanter{
+    border-radius: 10px;
+}
+
+
+
+/************PAGE FORMATION**********************/
+/************PAGE FORMATION*********************/
+
+.blocFormation{
+background-color: grey;
+font-family: sans-serif;
+text-align: center;
+    
+ 
+}
+.blocFormation h1 {
+width: 70%;
+   margin: auto;
+    color: white;
+
+}
+.containerFormation{
+	width: 100%;
+    padding: 10px;
+	margin: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border-radius: 10px;
+}
+
+.containerFormation p{
+    padding: 10px;
+    width: 60%;
+    margin: auto;
+    border-radius: 10px;
+ background-color: #c1c1c1;
+ text-align: left;
+   
+}
+.blocFormation h2 {
+  padding-top: 10px;
+    padding-bottom: 10px;
+	background-color: rgba(216, 218, 221, 0.4);
+	border-radius: 10px;
+    width: 60%;
+    margin: auto;
+}
+
+
+/***************PAGE QUI SOMME NOUS**********************/
+/***************PAGE QUI SOMME NOUS*********************/
+.blocQuisommeNous{
+    position: relative;
+    font-family: sans-serif;
+  text-align: center;
+    margin: auto;
+    z-index: 0;}
+.fondPublisher1{
+width: 100%;
+}
+.imagePublisher1{
+width: 250px;
+margin-top: 200px;
+margin-left: 400px;
+margin-right: 400px;
+position: absolute;
+  
+}
+
+.monBouton{
+background-color: rgba(156,57,26); 
+    border-radius: 10px;
+    padding: 5px;
+    width: 100px;
+    color: white;
+}
+/*************************************BLOC-CONTACT*/
+/***********************************BLOC-CONTACT*/
+
+.bodyContact{
+     background-color: rgba(156,57,26);
+   text-align: center;
+
+}
+
+form{
+    z-index: 100;
+    position: absolute;
+margin-left: 20%;
+    opacity: 0.8;
+    border:solid white 1px;
+    margin-top: 10px;
+    border-radius: 8px;
+    padding: 5px;
+}
+form h2{
+    color: white;
+}
+form input, textarea{
+    width: 300px;
+    border-radius: 8px;
+}
+
+.imageFondContact{
+    position: relative;
+   border-radius: 10px;
+  width: 100%;
+    box-shadow: 10px 10px 30px 0px;
+
+}
+ .envoyer{
+margin: auto;
+   width: 300px;
+   margin-top: 10px;
+border-radius: 10px;
+    color: blue;
+    background-color: white;
+    font-size: 1em; 
+}
+.nonEnvoyer {
+       margin: auto;
+      width: 300px;
+   margin-top: 10px;
+border-radius: 10px;
+    color: red;
+    background-color: white;
+    font-size: 1em;
+}
+
+
+.btEnvoie {
+    width: 100px;
+}
+
+
+/***************PAGE EDITO**********************/
+/***************PAGE EDITO*********************/
+
+.blocSadaEdito{
+	font-family: sans-serif;
+	background-size: cover;
+	background-color: grey;
+
+}
+.blocEdito{
+    background-color: grey;
+    background-size: 100%;
+}
+.sadaEdito{
+padding-left: 20px;
+padding-right: 20px;
+border-radius: 10px;
+padding-top: 10px;
+padding-bottom: 10px;
+text-align: center;
+width:60%;
+background-color: #bcbcbc;
+margin: auto;
+margin-top: 10px;
+}
+.sadaEdito h1{
+color:white;
+border-radius: 10px;
+
+	margin: auto;
+    font-weight: bold;
+	
+}
+.sadaEdito p{
+text-align: justify;
+}
+.sadaEdito em{
+	margin: auto;
+	text-align: center;
+    color: white;
+	font-weight: bold;
+}
+.boutonEdito p{
+text-align: center;
+
+}
+.boutonEdito {
+    width: 500px;
+    margin: auto;
+}
+
+
+/***************PAGE PRESENTATION**********************/
+/***************PAGE PRESENTATION*********************/
+
+.presentationPage4publisher{
+    width: 60%;
+    margin: auto;
+    border-radius: 10px;
+}
+
+.presentationPage4publisher h2{
+color: white;
+  text-align: center;
+margin-bottom: 10px;
+}
+.presentationPage4publisher h1 {
+      font-size: 3rem;
+    text-align: center;
+    width: 60%;
+    margin: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    color: white;  
+    font-weight: bold;
+}
+.presentation1Paragraphe{
+	background-color: lightgray;
+	width: 98%;
+	margin: auto;
+    padding-left: 10px;
+	text-justify: left;
+	padding-top: 10px;
+   padding-bottom: 10px;
+	border-radius: 10px;
+}
+.presentation2Paragraphe{
+    border:solid 1px #e5dddd;
+	width: 60%;
+	margin: auto;
+	padding: 10px;
+    border-radius: 10px;
+}
+.presentation4Paragraphe{
+	text-align: center;
+	line-height: 30px;
+}
+.presentation6Paragraphe {
+	border:solid 1px #e0dada;
+	width: 60%;
+	margin: auto;
+	text-align: center;
+    border-radius:10px;
+	
+}
+.presentationMissionConsultant{
+	width: 60%;
+	background-color: #b2b2b2;
+	margin: auto;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 15px;
+	border-radius: 10px;
+	padding-top: 10px;
+	
+		
+}
+.presentationMissionConsultant h1{
+      font-size: 3rem;
+    background-color: grey;
+    text-align: center;
+    width: 500px;
+    margin: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    color: white;   
+}
+.presentationMissionConsultant p{
+	text-align: justify;
+}
+.presentationSada{
+    background-color: grey;
+    margin: auto;
+}
+
+
+/*SAVOIR-FAIRE*/
+/*SAVOIR-FAIRE*/
+.blocSavoirFaire{
+  	border:solid 1px #e5dddd;
+    width:1000px;
+    margin: auto;
+    border-radius: 10px;
+}
+.cercleSavoirFaire{
+ 
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border:solid 0.2em;
+}
+.blocCercle{
+    display: flex;
+    margin-left: 2%;
+    margin-bottom: 20px;
+}
+.blocCercle h2{
+    position: absolute;
+    margin-top: 66px;
+    text-align: left;
+   background: linear-gradient(to right, #f25f01, white);
+        
+}
+.savoirFaireTexte1{
+    background-color: darkgrey;
+width: 900px;
+    margin: auto;
+    border-radius: 10px;
+padding-top: 10px;
+    padding-bottom: 10px;
+}
+.savoirFaireTexte1 p{
+ margin-left: 20%;
+ 
+}
+/*Animation*/
+/*Animation*/
+.animationEtPilotageDeProjets{
+      background-color: darkgrey;
+width: 900px;
+    margin: auto;
+    border-radius: 10px;  
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.animationEtPilotageDeProjets h2{
+  background-color: lightgrey;
+    
+}
+.animationEtPilotageDeProjets p{
+    margin-left: 20%;
+}
+/*Gestion-*/
+/*Gestion-*/
+
+.gestionAdministrationFinanciere{
+        background-color: darkgrey;
+width: 900px;
+    margin: auto;
+    border-radius: 10px;  
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.gestionAdministrationFinanciere h2{
+  background-color: lightgrey;   
+}
+.gestionAdministrationFinanciere p{
+       margin-left: 20%;
+    
+}
+
+/*Organisation*/
+/*Organisation*/
+
+.organisationAnimation{
+    background-color: grey;
+   width: 60%;
+    margin: auto;
+    border-radius: 10px;  
+    padding-top: 10px;
+    padding-bottom: 10px;   
+}
+
+
+.organisationAnimation p{
+         margin-left: 20%;
+}
+/*Communication*/
+/*Communication*/
+.communication{
+        background-color: darkgrey;
+   width: 900px;
+    margin: auto;
+    border-radius: 10px;  
+    padding-top: 10px;
+    padding-bottom: 10px;  
+}
+.communication  h2{
+        background-color: lightgrey; 
+}
+.communication p {
+     margin-left: 20%; 
+}
+
+/*Competence*/
+/*Competence*/
+.competencesTechnique{
+         background-color: darkgrey;
+   width: 900px;
+    margin: auto;
+    border-radius: 10px;  
+    padding-top: 10px;
+    padding-bottom: 10px;     
+}
+.competencesTechnique h2{
+   background-color: lightgrey;  
+}
+.competencesTechnique p{
+       margin-left: 20%;  
+}
+
+
+
+/*SAVOIR-ETRE*/
+/*SAVOIR-ETRE*/
+.blocSavoirEtre{
+padding-top: 20px;
+ 	border:solid 1px #e5dddd;
+    width:60%;
+    border-radius: 10px;
+    margin: auto;
+
+
+}
+.savoirEtreGaucheDroite{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+.savoirEtreleft{
+    padding: 20px;
+    line-height: 20px;
+    margin-right: 10px;
+    border:solid 1px #f0e4e4;
+    border-radius: 10px;
+          background-color: darkgrey;
+}
+.savoirEtreRight{
+    border:solid 1px #f0e4e4;
+       line-height: 20px;
+     padding: 20px;
+        border-radius: 10px;
+          background-color: darkgrey;
+}
+
+
+/*NOS ATOUTS*/
+/*NOS ATOUTS*/
+.blocNosAtouts{
+   border:solid 1px #f0e4e4;
+  padding-top: 20px;
+    padding-bottom: 20px;
+border-radius: 10px;
+    width:60%;
+    margin: auto;
+    
+}
+
+
+.blocTexteAtouts {
+    border-radius: 10px;
+    background-color: lightgrey;
+    padding-left: 10px;;
+    padding-top: 15px;
+    padding-bottom: 45px;
+    width: 98%;
+    margin: auto;
+}
+
+/*CommunicationAssociation*/
+/*CommunicationAssociation*/
+
+
+.communicationAssociation{
+background-color: darkgrey;
+width: 60%;
+margin: auto;
+border-radius: 10px;  
+padding-top: 10px;
+padding-bottom: 10px; 
+}
+.communicationAssociation h2 {
+      background-color: lightgrey; 
+    text-align: center;
+    color: black;
+}
+.communicationAssociation h3{
+    color: black;
+    margin-left: 10px;
+   
+}
+.communicationAssociation p{
+    text-align: justify;
+ padding-left: 15px;
+    padding-right: 15px;
+}
+
+
+
+.leTrafic h3 {
+      color: white;
+    margin-left: 15%;  
+}
+.leTrafic p{
+        text-align: justify;
+ padding-left: 15px;
+    padding-right: 15px;
+}
+
+
+.lesExpositions h3 {
+      color: white;
+    margin-left: 15%;  
+}
+.lesExpositions p{
+        text-align: justify;
+ padding-left: 15px;
+    padding-right: 15px;
+}
+
+.imageExpositions img{
+    width: 35%;
+
+ 
+}
+
+
+/*Produits-deriver*/
+/*Produits-deriver*/
+
+.lesProduitsDerives{
+    background-color: darkgrey;
+width:60%;
+margin: auto;
+    margin-top: 10px;
+border-radius: 10px;  
+padding-top: 10px;
+padding-bottom: 10px ;
+
+}
+.lesProduitsDerives h3{
+        color: black;
+    margin-left: 10px;   
+}
+.lesProduitsDerives p{
+            text-align: justify;
+ padding-left: 15px;
+    padding-right: 15px;
+}
+
+
+
+/*LE FINANCEMENT*/
+/*LE FINANCEMENT*/
+.blocFinancement{
+    background-color: grey;
+}
+.nouveauFinancement {
+   border-radius: 10px;
+    width: 60%;
+    margin: auto;
+    margin-top: 10px;
+    background-color: lightgray;
+}
+.nouveauFinancement h1{
+    color: white;
+    text-align: center;
+}
+.nouveauFinancement p{
+    padding-left: 10px;
+}
+
+
+
+
+/*ORGANISATION ASSOCIATION*/
+/*ORGANISATION ASSOCIATION*/
+.blocOrganisationDuneAssociation{
+    font-family: sans-serif;
+   
+    
+}
+.organisation1{
+border-radius: 10px;
+    margin: auto;
+    padding-top: 10px;
+    background-color: grey;
+    font-family: sans-serif;
+    width: 100%;
+   
+}
+.organisation1  h1{
+
+    border-radius: 10px;
+    margin: auto;
+    color: white;
+    font-size: 2rem;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+width: 60%;    
+}
+.organisation1 h2{
+  text-align: center;
+}
+
+/*Phase de viabiliter*/
+/*Phase de viabiliter*/
+.phaseDeViabilite {
+text-align: center;
+
+}
+.phaseDeViabilite img{
+    width: 900px;
+}
+.organisation1 img{
+ width: 60%;
+    border-radius: 10px;
+}
+
+
+/*Organisation d'un bureau*/
+
+.organisationDunBureau{
+    width: 60%;
+    text-align: center;
+    margin:auto;
+margin-top: 10px;
+    padding-top: 10px;
+    border-radius: 10px;
+}
+.organisationDunBureau h2{
+  
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 10px;
+    text-align: center;
+    margin: auto;
+
+  
+}
+.organisationDunBureau p{
+    margin: auto;
+    border-radius: 10px;
+    
+}
+.texteBureau{
+
+    padding: 15px;
+    text-align: justify;
+     background-color: lightgrey;
+ 
+}
+.imageOrganisationBureau{
+    margin-top: 10px;
+    margin: auto;
+    text-align: center;
+  
+}
+.imageOrganisationBureau img{
+    width: 60%;
+}
+
+
+/*Le president*/
+
+.lePresident{
+text-align: center;
+margin:auto;
+margin-top: 10px;
+    border-radius: 10px;
+}
+.lePresident p{
+    text-align: justify;
+    width: 60%;
+    margin: auto;
+       background-color:lightgrey;
+    border-radius: 10px;
+    padding: 15px;
+    
+}
+
+/*organisationAssemble*/
+
+.organisationAssemble{
+    text-align: center;
+}
+/*CV-ESPERAT*/
+/*CV-ESPERAT*/
+.blocCvEsperat{
+background-size: 100%;
+border-radius: 10px;
+font-family: sans-serif;
+text-align: center;
+background-color: grey;
+padding-top: 10px;
+    margin: auto;
+    
+}
+.photocv {
+    width: 10%;
+ 
+}
+.blocCvEsperat h1{
+background-color: lightgray;
+    border-radius: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+width: 60%;
+    margin: auto;
+}
+.paragraphe1CV{
+    width: 60%;
+    border-radius: 10px;
+  background-color: lightgrey;
+    margin: auto;
+    margin-top: 10px;
+    padding: 15px;
+    text-align: justify;
+    margin-bottom: 10px;
+}
+.thematiqueCV{
+   background-color: #766161;
+text-align:left;
+    border:solid;
+    display:block;
+    border-radius: 10px;
+    color: white;
+padding-left:  15px;
+    margin: auto;
+    padding-top: 10px;
+ 
+}
+.thematiqueCV p{
+text-decoration: none;
+}
+.quelleSontMesMissionCV h1{
+    margin-bottom: 10px;
+    width: 60%;
+}
+.quelleSontMesMissionCV p{
+ width: 60%;
+    margin: auto;
+   text-align: left;
+    background-color:lightgrey;
+    border-radius: 10px;
+    padding: 15px;
+ 
+}
+.solutionAproprieeCV{
+  margin-top: 10px;
+}
+.solutionAproprieeCV h2{
+      width: 60%;
+       background-color:lightgrey;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 10px; 
+    padding: 15px;
+}
+.solutionAproprieeCV p{
+     width: 60%;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: justify;
+    padding: 15px;
+    background-color:lightgrey;   
+}
+/*PILOTAGE-CADRAGECV*/
+.pilotageCadrageCV h1{
+   width: 60%;
+}
+.pilotageCadrageCV p{
+ width: 60%;
+border-radius: 10px;
+margin: auto;
+text-align: justify;
+}
+/*MON-ROLE-CV*/
+.monRoleCV p{
+width: 60%;
+border-radius: 10px;
+margin: auto;
+margin-top: 10px;
+margin-bottom: 10px;
+text-align: justify;
+padding: 15px;
+background-color:lightgray; 
+}
+.monRoleCV h1{
+       width: 60%;
+ 
+}
+/*COMPETENCE-CV*/
+.competenceCV P{
+width: 60%;
+border-radius: 10px;
+margin: auto;
+margin-top: 10px;
+margin-bottom: 10px;
+text-align: justify;
+padding: 15px;
+background-color:lightgrey;
+}
+/*MA-FORMATION-CV*/
+.formationCV p{
+width: 60%;
+border-radius: 10px;
+margin: auto;
+margin-top: 10px;
+margin-bottom: 10px;
+text-align: justify;
+padding: 15px;
+background-color:lightgrey;
+ 
+}
+
+/*RESPONSIVE*RESPONSIVE*RESPONSIVE*RESPONSIVE*RESPONSIVE*RESPONSIVE*RESPONSIVE*RESPONSIVE*RESPONSIVE*/
+/*RESPONSIVE*RESPONSIVE*RESPONSIVE*RESPONSIVE*RESPONSIVE*RESPONSIVE*RESPONSIVE*RESPONSIVE*RESPONSIVE*/
+/*RESPONSIVE*RESPONSIVE*RESPONSIVE*RESPONSIVE*RESPONSIVE*RESPONSIVE*RESPONSIVE*RESPONSIVE*RESPONSIVE*/
+/*RESPONSIVE*RESPONSIVE*RESPONSIVE*RESPONSIVE*RESPONSIVE*RESPONSIVE*RESPONSIVE*RESPONSIVE*RESPONSIVE*/
+/*RESPONSIVE*RESPONSIVE*RESPONSIVE*RESPONSIVE*RESPONSIVE*RESPONSIVE*RESPONSIVE*RESPONSIVE*RESPONSIVE*/
+@media only screen and (max-width:783px) {
+  
+    
+    
+    
+    /*MAINDOEUVRE*/
+    .mainDoeuvre{
+    width: 100%;
+    text-align: center;
+}
+ 
+.mainDoeuvre h2{
+  
+ 
+    font-size: 1.4em;
+    text-align: center;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+    
+/*FOOTER-RESPONSIVES*/    
+footer {
+border-radius: 0;
+color: white;
+text-align: center;
+font-family: sans-serif;
+background-color: rgba(156,57,26);
+
+}
+
+.designer {
+    font-family: sans-serif;
+    font-size: 19px;
+}
+
+.footerEmail {
+    color:red;
+    text-decoration: none;
+}
+
+.blocReseauxSociaux {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.imageResauSociaux {
+    width: 35px;
+margin: 8px;
+    background-color: white;
+    border-radius: 50%;
+
+}
+
+.designer {
+    font-size: 9px;
+}
+
+.designer a{
+	text-decoration: none;
+	color: white;
+}
+ 
+    
+.flipCard {
+   margin-bottom: 30px;
+    background-color: transparent;
+    width: 250px;
+    height: 250px;
+    perspective: 1000px;
+    
+}
+
+   
+
+
+    
+    
+    
+    /*EDUCATION-RESPONSIVES*/
+.bloccontainerEducation{
+    border:solid transparent;
+    padding: 10px;
+    border-radius: 10px;
+    width: 100%;
+    margin: auto;
+    margin-bottom: 10px;
+} 
+    
+    
+
+    
+    
+/*SANTE-RESPONSIVES*/
+.sante1{
+    padding: 20px;
+ border:solid 1px transparent;
+    border-radius: 10px;
+    background-origin: grey;
+width: 100%;
+    margin: auto;
+    
+
+   
+}
+.imageSanter{
+    border-radius: 10px;
+      width: 100%;
+}
+.blocSante h1{
+    color: white;
+font-size: 2rem;
+}
+
+
+  
+    
+    
+    
+/*INDEX*RESPONSIVES*/
+    .textePresentation{
+    width: 90%;
+    margin: auto;
+}    
+.textePresentation h2{
+    color: white;
+    text-align: center;
+}
+.titreSada span{
+    text-align: center;
+}
+    
+    /*INSERTION-PROFESIONNELLE-RESPONSIVES*/
+   
+.paragrapheInsertion{
+
+  width: 100%;
+    border-radius: 0;
+padding-left: 10px;
+      background-color: grey;
+    font-family: sans-serif;
+} 
+.paragrapheInsertion h1{
+     color: white;
+    width: 100%;
+  text-align: center;
+ 
+    font-size: 2em;
+}
+.imageTutoInsertion1{
+    width: 100%;
+    text-align: center;
+}
+.imageTutoInsertion2{
+        width: 100%;
+    }
+.imageTutoInsertion3{
+        width: 100%;
+    }
+    
+    
+/*FORMATION-RESPONSIVES*/
+.containerFormation{
+
+	width: 100%;
+    padding: 10px;
+	margin: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border-radius: 10px;
+}
+.containerFormation h1{
+        border:solid;
+  font-size: 1.5rem;
+    color: red;
+    }
+
+    .imageFormation{
+        width: 100%;
+    }
+  
+    
+    
+/*CV-ESPERAT*/
+.blocCvEsperat h1{
+background-color: lightgray;
+    border-radius: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+width: 100%;
+    margin: auto;
+}
+.photocv {
+    width: 20%;
+ 
+}
+.paragraphe1CV{
+    width: 100%;
+    border-radius: 1px;
+  background-color: lightgrey;
+    margin: auto;
+    margin-top: 10px;
+    padding: 15px;
+    text-align: justify;
+    margin-bottom: 10px;
+}
+.competenceCV P{
+width: 100%;
+border-radius: 10px;
+margin: auto;
+margin-top: 10px;
+margin-bottom: 10px;
+text-align: justify;
+padding: 15px;
+background-color:lightgrey;
+}
+.pilotageCadrageCV h1{
+   width: 100%;
+}
+.pilotageCadrageCV p{
+ width: 100%;
+border-radius: 10px;
+margin: auto;
+text-align: justify;
+}
+.formationCV p{
+width: 100%;
+border-radius: 10px;
+margin: auto;
+margin-top: 10px;
+margin-bottom: 10px;
+text-align: justify;
+padding: 15px;
+background-color:lightgrey;
+}
+.quelleSontMesMissionCV p{
+ width: 100%;
+    margin: auto;
+   text-align: left;
+    background-color:lightgrey;
+    border-radius: 10px;
+    padding: 15px;
+ 
+}
+.solutionAproprieeCV h2{
+      width: 100%;
+       background-color:lightgrey;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 10px; 
+    padding: 15px;
+}    
+.solutionAproprieeCV p{
+     width: 100%;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: justify;
+    padding: 15px;
+    background-color:lightgrey;   
+}
+.monRoleCV p{
+width: 100%;
+border-radius: 10px;
+margin: auto;
+margin-top: 10px;
+margin-bottom: 10px;
+text-align: justify;
+padding: 15px;
+background-color:lightgray; 
+}  
+    
+    
+    /*EDITO*/
+    .sadaEdito{
+padding-left: 20px;
+padding-right: 20px;
+border-radius: 10px;
+padding-top: 10px;
+padding-bottom: 10px;
+text-align: center;
+width:100%;
+background-color: #bcbcbc;
+margin: auto;
+margin-top: 10px;
+}
+    
+    /*PRESENTATION*/
+    
+    .presentationPage4publisher{
+    width: 100%;
+    margin: auto;
+}
+    .blocSavoirEtre{
+padding-top: 20px;
+ 	border:solid 1px #e5dddd;
+    width:100%;
+    border-radius: 10px;
+    margin: auto;
+
+
+}
+    
+    /*NOS ATOUTS*/
+.blocNosAtouts{
+   border:solid 1px #f0e4e4;
+  padding-top: 20px;
+    padding-bottom: 20px;
+border-radius: 10px;
+    width:100%;
+    margin: auto;
+    
+}
+
+/*COMUNICATION*/
+    .communicationAssociation{
+background-color: darkgrey;
+width: 100%;
+margin: auto;
+border-radius: 10px;  
+padding-top: 10px;
+padding-bottom: 10px; 
+}
+    
+    /*FINANCEMENT-RESPONSIVES*/
+    .nouveauFinancement h1{
+    color: white;
+    text-align: center;
+}
+    .nouveauFinancement {
+   border-radius: 10px;
+    width: 100%;
+    margin: auto;
+    margin-top: 10px;
+    background-color: lightgray;
+}
+    
+/*ORGANISATION-RESPONSIVES*/
+    .lePresident p{
+    text-align: justify;
+    width: 100%;
+    margin: auto;
+       background-color:lightgrey;
+    border-radius: 10px;
+    padding: 15px;
+    
+}
+    
+    
+    /*CONTACT-RESPONSIVES*/
+    
+    .imageFondContact{
+    position: relative;
+   border-radius: 10px;
+width:100%;
+        height:30%;
+    /*box-shadow: 10px 10px 30px 0px;*/
+
+}
+
+    .bodyContact{
+      
+    background-color: rgba(156,57,26);
+
+    }
+    .caseFormulaire{
+    border-radius: 10px;
+
+}
+    form{
+    position: absolute;
+    z-index: 200;
+        text-align: center;
+        margin-left:auto;
+    border: none;
+
+}
+    form input, textarea {
+    width: 250px;
+    border-radius: 8px;
+}
+
+    
+    
+    /*SOMMAIRE*/
+    .blocSomaire{
+ text-align: center;
+ width: 100%;
+    margin: auto;
+ margin-bottom: 10px;
+ margin-top: 10px;
+ background-color: darkgrey;
+ border-radius: 10px;
+ padding-bottom: 10px;
+} 
+    
+    /*RESEAUX-SOCIAUX*/
+    
+.blocReseauxSociaux {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+}
+
+
+
+
+
+
+/************PAGE INSECURITE ALIMENTAIRE*RESPONSAIVES********************/
+    
+    
+.blocSecuriteAlimentaire{
+background-color: grey;
+font-family: sans-serif;  
+width: 100%;
+
+}
+
+.securiteAlimentaire {
+    text-align: center;
+    margin: auto;
+    background-color: lightgray;
+    width: 96%;
+    border-radius: 10px;
+}
+.securiteAlimentaire h2, h2 {
+    font-size: 1.32rem;
+}
+.imageInsecurite_1_2{
+
+	width:100%;
+}
+.imageInsecurite1{
+width:98%;
+margin-bottom:10px;
+}
+.imageInsecurite2{
+width:98%;
+}
+.imageInsecurite3{
+	width:98%;
+}
+.imageInsecurite4{
+	width:98%;
+}
+.securiteAlimentaire h1 {
+    color:white;
+    text-align: center;
+    border-radius: 10px;
+    width: 100%;
+   
+}
+.securiteAlimentaire h2 {
+   color: black;
+    
+}
+.securiteAlimentaire1 p{
+  padding: 5px;
+    border-radius: 10px;
+     background-color: #c1c1c1;
+   width:100%;
+    margin: auto;
+    text-align: justify;
+    
+}
+
+    
+    
+    
+    /*EDUCATION-RESPONSIVES*/
+    .imageEducation{
+    border-radius: 10px;
+width: 98%;
+}
+    .bloc2Education p{
+        width: 100%;
+    }
+}
+
+
+
