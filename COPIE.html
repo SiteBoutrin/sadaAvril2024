@@ -1,47 +1,4 @@
-<?php
-if(isset($_POST['mailform']))
-{
-	if(!empty($_POST['association']) AND !empty($_POST['responsable']) AND !empty($_POST['adresse'])  AND !empty($_POST['rue'])
-	   AND !empty($_POST['codepostal'])  AND !empty($_POST['ville'])AND !empty($_POST['tel']) AND !empty($_POST['mail']) AND !empty($_POST['message']))
-	{
-		$header="MIME-Version: 1.0\r\n";
-	    $header.='Sada_Madagascar<https://myrpojectsboutrin.fr/sada-madagascar-SAMEDI12DECEMBRE/index.php>'."\n";
-		$header.='Content-Type:text/html; charset="uft-8"'."\n";
-		$header.='Content-Transfer-Encoding: 8bit';
 
-		$message='
-		<html>
-			<body>
-				<div align="center" style="border:solid 1px;">
-					<img src="https://image.noelshack.com/fichiers/2020/50/6/1607794706-logosada.png" style="width:10%;"/>
-					<br />
-					<u>Association :</u>'.$_POST['association'].'<br />
-					<u>Responsable :</u>'.$_POST['responsable'].'<br />
-					<u>Adresse :</u>'.$_POST['adresse'].'<br />
-					<u>Rue :</u>'.$_POST['rue'].'<br />
-					<u>Code_Postal :</u>'.$_POST['codepostal'].'<br />
-					<u>Ville :</u>'.$_POST['ville'].'<br />
-					<u>Tel :</u>'.$_POST['tel'].'<br />
-					<u>Email :</u>'.$_POST['mail'].'<br/>
-					<br />
-					<img src="https://image.noelshack.com/fichiers/2020/50/6/1607801803-barresaparation.png" style="width:900px; height:3px;"/> <br>
-
-					'.nl2br($_POST['message']).'
-					<br />
-				</div>
-			</body>
-		</html>
-		';
-
-		mail("sada.esperat@gmail.com", "Contact SADA-MADAGASCAR", $message, $header);
-		$msg="Votre message a bien été envoyé !";
-	}
-	else
-	{
-		$msg="Tous les champs doivent être complétés !";
-	}
-}
-?>
 <html>
 	<head>
 		<meta charset="utf-8" />

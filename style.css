@@ -2,8 +2,9 @@
     .textePresentation{
     width: 80%;
     margin: auto;
-        color: white;
-        padding-left: 8px;
+    color: white;
+    padding-left: 8px;
+    border:solid;
 }   
   .textePresentation span{
  font-size: 2rem;
@@ -70,6 +71,7 @@ color: white;
 text-align: center;
 font-family: sans-serif;
 background-color: rgba(156,57,26);
+border:solid;
 }
 
 .designer {
@@ -183,6 +185,7 @@ color: white;
  width: 100%;
 }
 /*MIMI-IMAGE*MIMI-IMAGEMIMI-IMAGEMIMI-IMAGEMIMI-IMAGE*/
+
 .flipCardBack1  {
     font-family: sans-serif;
     border-radius: 30px;
@@ -285,14 +288,14 @@ margin-left: 35px;
     width: 100%;
   margin: auto;
 padding-top: 10px;
-    padding-bottom: 30px;
-    
-
+margin-bottom: 40px;
+border:solid;
 }
 .blocImageEnsemble{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    border:solid;
     }
 .image {
     border-radius: 10px;
@@ -1458,7 +1461,7 @@ font-size: 2rem;
     
     
 /*INDEX*RESPONSIVES*/
-    .textePresentation{
+    .textePresentation {
     width: 90%;
     margin: auto;
 }    
@@ -1469,6 +1472,7 @@ font-size: 2rem;
 .titreSada span{
     text-align: center;
 }
+
     
     /*INSERTION-PROFESIONNELLE-RESPONSIVES*/
    
